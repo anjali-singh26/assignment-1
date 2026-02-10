@@ -13,7 +13,7 @@ Processing: Calculates the sum, difference, product, and quotient.
 Output: Displays the results of each operation line-by-line.
 
 Example Usage
-Plaintext
+
 Enter the First number : 10
 Enter the Second number : 5
 
@@ -33,12 +33,12 @@ Processing: Concatenates the names using f-string formatting to create a full na
 Output: Prints a friendly, personalized greeting sentence.
 
 Example Usage
-Plaintext
+
 Enter the First name : Jane
 Enter the Second name : Doe
 
 Hello, Jane Doe! Welcome to the Python Program.
-How to Run
+How to Run : 
 Ensure you have Python installed on your machine.
 
 Save the code snippets into .py files (e.g., task1.py and task2.py).
